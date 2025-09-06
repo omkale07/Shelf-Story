@@ -8,7 +8,7 @@ It allows users to browse, explore, and review books with an elegant and intuiti
 ---
 
 ## 🚀 Features
-- 📚 Browse and organize books seamlessly  
+- 📚 Browse and Buy books seamlessly  
 - 📝 Add and view reviews from readers  
 - 🎨 Clean and responsive UI  
 - 🔍 Smart search and easy navigation  
@@ -17,10 +17,8 @@ It allows users to browse, explore, and review books with an elegant and intuiti
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (Vanilla)  
-- **Icons & Styling:** FontAwesome, Lucide Icons  
-- **Backend (future scope):** Node.js / Express / Database Integration  
-
+- **Frontend:** HTML, CSS, JavaScript (Vanilla)
+  
 ---
 
 ## 📂 Project Structure
